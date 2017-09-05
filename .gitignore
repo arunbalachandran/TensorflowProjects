@@ -2,3 +2,4 @@ pos.txt
 neg.txt
 venv
 sent_set.pickle
+__pycache__
